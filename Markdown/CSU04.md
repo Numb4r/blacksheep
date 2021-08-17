@@ -13,16 +13,16 @@ Sumario: O Administrador realiza o CRUD (inclusão,remoção,alteração e consu
 - a. O Administrador requisita a inclusão de um lote.
 - b. O Sistema apresenta um formulário para que os detalhes do lote (numero do lote, produto,quantidade) sejam incluídos.
 - c. O Administrador fornece os detalhes do novo lote.
-- d. O Sistema verifica a validade dos dados. Se os dados forem validos, inclui o novo lote; caso contrario, o sistema reporta o fato, solicita novos dados e repete a verificação.
+- d. O Sistema verifica a validade dos dados. Se os dados forem validos, inclui o novo lote; caso contrario, o Sistema reporta o fato, solicita novos dados e repete a verificação.
   
 
 ### Fluxo Alternativo (4): Remoção
-- a. O Administrador seleciona um lote e pede que o sistema o remova.
-- b. Se o lote pode ser removido, o Sistema realiza a remoção; caso contrario, o sistema reporta o fato.
+- a. O Administrador seleciona um lote e pede que o Sistema o remova.
+- b. Se o lote pode ser removido, o Sistema realiza a remoção; caso contrario, o Sistema reporta o fato.
 
 ### Fluxo Alternativo (4): Alteração
 - a. O Administrador altera um ou mais dos detalhes sobre o lote e requisita a sua atualização.
-- b. O sistema verifica a validade dos dados e, se eles forem validos, altera os dados na lista de lotes.
+- b. O Sistema verifica a validade dos dados e, se eles forem validos, altera os dados na lista de lotes.
 
 ### Fluxo Alternativo (4): Consulta
 

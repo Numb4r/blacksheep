@@ -1,5 +1,5 @@
 # Efetuar Login (CSU00)
-Sumario: O Usuário realiza o login no sistema.
+Sumario: O Usuário realiza o login no Sistema.
 
 Ator primário: Usuário.
 
@@ -16,7 +16,7 @@ Ator primário: Usuário.
 
 ### Fluxo Alternativo (2): Recuperar a senha
 - a. O Usuário solicita a recuperação da senha.
-- b. O sistema exibe um formulário em branco para que os detalhes da recuperação (e-mail) sejam incluídos.
+- b. O Sistema exibe um formulário em branco para que os detalhes da recuperação (e-mail) sejam incluídos.
 - c. O Usuário fornece as informações de recuperação de senha.
 - d. O Sistema envia um email com um link para o processo de recuperação da senha.
 - e. O Usuário acessa esse link.

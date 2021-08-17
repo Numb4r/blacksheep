@@ -1,5 +1,5 @@
 # Efetuar Registro (CSU03)
-Sumario: O Usuário realiza o registro no sistema.
+Sumario: O Usuário realiza o registro no Sistema.
 
 Ator primário: Usuário
 

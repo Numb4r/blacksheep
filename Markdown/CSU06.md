@@ -19,7 +19,7 @@ Ator primário: Usuário.
 
 ### Fluxo Alternativo (4): Remover
 - a. O Usuário requisita a remoção do produto do carrinho de compras.
-- b. Se o produto pode ser removido, o Sistema realiza a remoção; caso contraio o sistema reporta o fato.
+- b. Se o produto pode ser removido, o Sistema realiza a remoção; caso contraio o Sistema reporta o fato.
 
 
 ### Fluxo Alternativo (4): Consultar
