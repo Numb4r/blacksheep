@@ -7,7 +7,7 @@ Ator primário: Usuário.
 ## Fluxo Principal
 
 1. O Usuário requisita o gerenciamento do carrinho de compras.
-2. O Sistema apresenta a lista de produtos no carrinho de comprar junto das operações(alterar quantidade,remover,consultar) que é possível realizar com cada item da lista.
+2. O Sistema apresenta a lista de produtos no carrinho de compras junto das operações(alterar quantidade,remover,consultar) que é possível realizar com cada item da lista.
 3. O Usuário indica a opção que deseja realizar ou opta por finalizar o caso de uso.
 4. O Usuário seleciona a operação desejada: Alterar, Remover, Consultar.
 5. Se O Usuário deseja continuar com o gerenciamento, o caso de uso retorna ao passo 2; caso contrario o caso de uso termina.

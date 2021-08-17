@@ -1,4 +1,4 @@
-# Visualizar produto(CSU05)
+# Visualizar produto (CSU05)
 Sumario: Usuário  visualiza um produto.
 
 Ator primário: Usuário.
