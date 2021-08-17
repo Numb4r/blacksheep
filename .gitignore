@@ -3,3 +3,7 @@
 Main/
 *.zip
 *.rar
+*.doc*
+*.odt
+*.mp4
+/old
