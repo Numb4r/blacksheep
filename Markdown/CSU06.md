@@ -16,9 +16,11 @@ Ator primário: Usuário.
 ### Fluxo Alternativo (4): Alterar
 - a. O Usuário requisita mudar a quantidade do produto no carrinho.
 - b. O Sistema verifica a validade dessa operação. Caso não seja valida o Sistema ira emitir uma mensagem de erro. O caso de de uso retorna ao passo 2.
+
 ### Fluxo Alternativo (4): Remover
 - a. O Usuário requisita a remoção do produto do carrinho de compras.
 - b. Se o produto pode ser removido, o Sistema realiza a remoção; caso contraio o sistema reporta o fato.
+
 
 ### Fluxo Alternativo (4): Consultar
 - a. O Usuário requisita a consulta de um produto.

@@ -1,7 +1,7 @@
 # Visualizar produto(CSU05)
 Sumario: Usuário  visualiza um produto.
 
-Ator primário: Usuário
+Ator primário: Usuário.
 
 ## Fluxo Principal
 1. O Usuário escolhe um produto na lista de produtos.
@@ -16,4 +16,4 @@ Ator primário: Usuário
 
 ### Fluxo Alternativo (4): Comprar
 - a. O Usuário requisita a compra do produto.
-- b. O Sistema verifica a validade da operação. Caso o produto não esteja presente no carrinho de comprar do Usuário ele é inserido, caso contrario o caso de uso termina e o caso de uso [CSU06](./CSU06) começa.
+- b. O Sistema verifica a validade da operação. Caso o produto não esteja presente no carrinho de comprar do Usuário ele é inserido, caso contrario o caso de uso termina e o caso de uso [CSU06](./CSU06.md) começa.
