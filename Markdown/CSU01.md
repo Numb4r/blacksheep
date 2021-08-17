@@ -32,4 +32,4 @@ Ator primário: Administrador.
 - a. O Administrador solicita a realização de uma consulta utilizando o/um identificador do Usuário.
 - b. O Sistema apresenta uma lista dos usuários com o resultado da busca pelo(s) identificadores, permitindo que o Administrador selecione o Usuário desejado.
 - c. O Administrador seleciona o Usuário.
-- d. O sistema apresenta os detalhes do Usuário no formulário de detalhes do Usuário.
+- d. O Sistema apresenta os detalhes do Usuário no formulário de detalhes do Usuário.

@@ -12,7 +12,7 @@ Ator primário: Administrador
 
 ### Fluxo Alternativo (4): Inclusão
 
-- a. O Administrador requisita a inclusao de um novo produto.
+- a. O Administrador requisita a inclusão de um novo produto.
 - b. O Sistema apresenta um formulário em branco para que os detalhes do produto (nome,categoria,etiquetas,descrição,preço) sejam incluídos.
 - c. O Administrador fornece os detalhes do novo produto.
 - d. O Sistema verifica a validade dos dados. Se os dados forem validos, inclui o  novo produto; caso contrario, o sistema reporta o fato, solicita novos dados e repete a verificação.

@@ -1,11 +1,11 @@
 # Efetuar Login (CSU00)
 Sumario: O Usuário realiza o login no sistema.
 
-Ator primário: Usuário (consumidor).
+Ator primário: Usuário.
 
 ## Fluxo Principal
 1. O Usuário requisita o procedimento de login.
-2. O Sistema apresenta um formulário em branco para que as informações de login (e-mail, senha) sejam incluídos e uma opção de recuperar a senha.
+2. O Sistema apresenta um formulário em branco para que os detalhes de login (e-mail, senha) sejam incluídos e uma opção de recuperar a senha.
 3. O Usuário fornece as credenciais de login.
 4. O Sistema confere as credenciais do formulário e aprova o login do usuário.
 5. O Usuário é redirecionado para a pagina anterior ao inicio do caso de uso e o caso termina.
