@@ -1,5 +1,6 @@
 # Efetuar Login (CSU00)
 Sumario: O Usuário realiza o login no sistema.
+
 Ator primário: Usuário (consumidor).
 
 ## Fluxo Principal
