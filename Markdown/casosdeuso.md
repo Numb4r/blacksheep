@@ -5,7 +5,7 @@
 ![](../doc/shopping.png)
 
 ## Gerenciamento de Usuários de Produtos
-
+- Fazer Login ([CSU00](./CSU00.md)).
 - Manter Usuário ([CSU01](./CSU01.md)).
 - Manter Produtos ([CSU02](./CSU02.md)).
 - Manter Estoque ([CSU04](./CSU04.md)).
