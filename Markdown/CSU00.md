@@ -11,7 +11,7 @@ Ator primário: Usuário.
 5. O Usuário é redirecionado para a pagina anterior ao inicio do caso de uso e o caso termina.
 
 ### Fluxo Exceção (4): Credenciais invalidas
-- O Sistema emite um erro que não foi possível realizar e retorna para o passo 2.
+- O Sistema emite um erro informando que não foi possível realizar e retorna para o passo 2.
 
 
 ### Fluxo Alternativo (2): Recuperar a senha
